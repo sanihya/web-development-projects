@@ -1,0 +1,20 @@
+button {
+  padding: 8px 15px;
+  background-color: royalblue;
+  color: white;
+  border: none;
+  margin: 10px;
+}
+
+div {
+  width: 350px;
+  background-color: lightgray;
+  padding: 20px;
+  margin: auto;
+  text-align: center;
+}
+
+input {
+  margin: 5px;
+  padding: 5px;
+}
